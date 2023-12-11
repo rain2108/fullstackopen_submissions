@@ -3,6 +3,7 @@ const Total = (props) => {
   return (
     <div>
       <p>
+        hellooooo
        total exercises are: {props.sum}
       </p>
     </div>
